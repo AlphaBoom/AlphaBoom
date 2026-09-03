@@ -1,5 +1,4 @@
-# Hi, I'm AlphaBoom
+### 记录一些个人项目和日常代码 :smile:
+![](https://komarev.com/ghpvc/?username=AlphaBoom)
 
-主要使用 Java / Kotlin，也会写 Android、Web 和一些自己用得上的小工具。
-
-[个人博客](https://notion.alphaboom.cn)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=AlphaBoom&show_icons=true&theme=radical)
