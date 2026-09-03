@@ -1,5 +1,4 @@
-### 作为一个懒人这里还是少写点为妙 :smile:
+### 记录一些个人项目和日常代码 :smile:
 ![](https://komarev.com/ghpvc/?username=AlphaBoom)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaBoom&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=AlphaBoom&show_icons=true&theme=radical)
