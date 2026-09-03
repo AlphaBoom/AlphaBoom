@@ -1,5 +1,5 @@
-### 作为一个懒人这里还是少写点为妙 :smile:
-![](https://komarev.com/ghpvc/?username=AlphaBoom)
+# Hi, I'm AlphaBoom
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaBoom&show_icons=true&theme=radical)
+主要使用 Java / Kotlin，也会写 Android、Web 和一些自己用得上的小工具。
 
+[个人博客](https://notion.alphaboom.cn)
